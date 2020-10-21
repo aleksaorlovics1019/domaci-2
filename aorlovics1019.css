@@ -1,0 +1,53 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Courier New', Courier, monospace;
+}
+table, th, td {
+    border-color: green;
+    border-style: solid;
+    border-collapse: collapse;
+}
+.PrvaKolona{
+    background-color: rgb(93, 173, 226);
+}
+.DrugaKolona{
+    background-color: yellow;
+}
+.TrecaKolona{
+    background-color: rgb(88, 214, 141);
+}
+.Center{
+    text-align: center;
+}
+.Right{
+    text-align: right;
+}
+.Left{
+    text-align: left;
+}
+#Crveno{
+    background-color:rgb(88, 214, 141);
+    color: red;
+}
+form { 
+    border-color: green;
+    border-style: solid;
+    margin: 0 auto;
+    width: 500px;
+    text-align:center;
+}
+label{
+    display: inline-block;
+    text-align: right;
+    width: 60px;
+}
+.Margin{
+    margin: 20px 0px;
+}
+.Div{
+    width: 480px;
+}
+.Button{
+    width: 90px;
+}
